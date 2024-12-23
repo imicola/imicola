@@ -1,3 +1,36 @@
+<h1 align="center">Imicola</h1>
+
+<div align="center">
+
+[![cf 个人主页](https://img.shields.io/badge/codeforces-imicola-yellow)](https://codeforces.com/profile/imicola)
+[![Luogu 个人主页](https://img.shields.io/badge/Luogu-imicola-blue)](https://www.luogu.com.cn/user/1422275)
+[![Newcow 个人主页](https://img.shields.io/badge/牛客-imicola-blue)](https://ac.nowcoder.com/acm/contest/profile/693475085)
+
+</div>
+<div align="center">
+  
+# Hi 👋, I'm Imicola
+
+### A passionate C++ developer from China
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+C%2B%2B+and+Competitive+Programming;First-year+Software+Engineering+Student&font=Fira%20Code&center=true&width=480&height=50">
+</p>
+
+<a href="https://github.com/imicola">
+    <img src="https://img.shields.io/badge/GitHub-imicola-brightgreen" alt="GitHub"/>
+</a>
+
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:imicola@outlook.com)
+[![Stars](https://img.shields.io/github/stars/imicola?color=fefb7b&logo=Github)](https://github.com/imicola)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=imicola.visitor-badge)](https://github.com/imicola)
+
+---
+
+</div>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%2059%20mins-blue)
 
@@ -76,3 +109,5 @@ C++                      1 repo              ███████████�
 
  Last Updated on 23/12/2024 12:50:21 UTC
 <!--END_SECTION:waka-->
+
+---
