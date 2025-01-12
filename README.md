@@ -69,8 +69,6 @@
 
 > 📦 76.6 kB Used in GitHub's Storage 
  > 
-> 🏆 6 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 3 Public Repositories 
@@ -104,7 +102,7 @@ Sunday                   30 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      3 hrs 20 mins       ████████████████████████░   97.76 % 
+C++                      3 hrs 19 mins       ████████████████████████░   97.76 % 
 Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
@@ -132,7 +130,7 @@ C++                      1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/imicola/imicola/main/assets/bar_graph.png)
 
 
- Last Updated on 11/01/2025 18:40:29 UTC
+ Last Updated on 12/01/2025 18:40:23 UTC
 <!--END_SECTION:waka-->
 
 ---
