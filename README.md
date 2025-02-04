@@ -104,19 +104,16 @@ Sunday                   30 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   13 mins             ████████████████████████░   97.88 % 
-C++                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  13 mins             ████████████████████████░   97.88 % 
-VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-python                   13 mins             ████████████████████████░   97.88 % 
-C++                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -132,7 +129,7 @@ C++                      1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/imicola/imicola/main/assets/bar_graph.png)
 
 
- Last Updated on 03/02/2025 18:39:30 UTC
+ Last Updated on 04/02/2025 18:40:31 UTC
 <!--END_SECTION:waka-->
 
 ---
