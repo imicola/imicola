@@ -61,13 +61,15 @@
 
 ## 📊 统计信息
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-286%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-286%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 79.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 24 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,16 +104,17 @@ Sunday                   31 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      45 mins             ██████████████████████░░░   88.09 % 
+Git Config               6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  51 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+C++                      51 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  51 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -127,7 +130,7 @@ C++                      1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/imicola/imicola/main/assets/bar_graph.png)
 
 
- Last Updated on 08/02/2025 18:37:32 UTC
+ Last Updated on 09/02/2025 18:37:38 UTC
 <!--END_SECTION:waka-->
 
 ---
