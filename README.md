@@ -69,8 +69,6 @@
 
 > 📦 83.2 kB Used in GitHub's Storage 
  > 
-> 🏆 71 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -135,7 +133,7 @@ CSS                      1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imicola/imicola/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2025 18:46:11 UTC
+ Last Updated on 20/05/2025 18:46:50 UTC
 <!--END_SECTION:waka-->
 
 ---
