@@ -61,15 +61,13 @@
 
 ## 📊 统计信息
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-510%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-510%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 89.2 kB Used in GitHub's Storage 
- > 
-> 🏆 78 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,16 +102,16 @@ Sunday                   40 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 56 mins        █████████████████████████   100.00 % 
+Markdown                 5 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Obsidian                 1 hr 56 mins        █████████████████████████   100.00 % 
+Obsidian                 5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 56 mins        █████████████████████████   100.00 % 
+Unknown Project          5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 56 mins        █████████████████████████   100.00 % 
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -130,7 +128,7 @@ CSS                      1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imicola/imicola/main/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2025 18:47:31 UTC
+ Last Updated on 17/06/2025 18:47:36 UTC
 <!--END_SECTION:waka-->
 
 ---
