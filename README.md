@@ -61,13 +61,15 @@
 
 ## 📊 统计信息
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-531%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-530%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 89.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 78 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -131,7 +133,7 @@ CSS                      1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imicola/imicola/main/assets/bar_graph.png)
 
 
- Last Updated on 10/07/2025 18:48:14 UTC
+ Last Updated on 11/07/2025 18:48:07 UTC
 <!--END_SECTION:waka-->
 
 ---
