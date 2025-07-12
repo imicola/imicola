@@ -61,15 +61,13 @@
 
 ## 📊 统计信息
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-530%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 89.2 kB Used in GitHub's Storage 
- > 
-> 🏆 78 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,18 +102,18 @@ Sunday                   40 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 13 hrs 7 mins       █████████████████████████   99.38 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Markdown                 24 hrs 42 mins      █████████████████████████   99.67 % 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-Obsidian                 13 hrs 7 mins       █████████████████████████   99.38 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Obsidian                 24 hrs 42 mins      █████████████████████████   99.67 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🐱‍💻 Projects: 
-Unknown Project          13 hrs 12 mins      █████████████████████████   100.00 % 
+Unknown Project          24 hrs 47 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  13 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -133,7 +131,7 @@ CSS                      1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imicola/imicola/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2025 18:48:07 UTC
+ Last Updated on 12/07/2025 18:45:55 UTC
 <!--END_SECTION:waka-->
 
 ---
