@@ -61,6 +61,8 @@
 
 ## 📊 统计信息
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C251%20hrs%2019%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -75,6 +77,48 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                74 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+🌆 Daytime                158 commits         ████████░░░░░░░░░░░░░░░░░   32.58 % 
+🌃 Evening                225 commits         ████████████░░░░░░░░░░░░░   46.39 % 
+🌙 Night                  28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Tuesday                  94 commits          █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Wednesday                70 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Thursday                 52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Friday                   94 commits          █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Saturday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Sunday                   59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+JavaScript               23 mins             ████████████████████████░   96.68 % 
+Go                       0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+
+🔥 Editors: 
+VS Code                  23 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          23 mins             ████████████████████████░   96.68 % 
+SRE_Devops               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+
+💻 Operating System: 
+Windows                  23 mins             ████████████████████████░   96.68 % 
+WSL                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -92,7 +136,7 @@ Astro                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imicola/imicola/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:52:36 UTC
+ Last Updated on 25/07/2026 19:39:54 UTC
 <!--END_SECTION:waka-->
 
 ---
