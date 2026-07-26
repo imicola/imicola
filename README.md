@@ -61,7 +61,7 @@
 
 ## 📊 统计信息
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C251%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C252%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -104,19 +104,23 @@ Sunday                   59 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               23 mins             ████████████████████████░   96.68 % 
-Go                       0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Markdown                 59 mins             ████████████░░░░░░░░░░░░░   48.10 % 
+Typst                    40 mins             ████████░░░░░░░░░░░░░░░░░   32.69 % 
+JavaScript               23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-VS Code                  23 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          23 mins             ████████████████████████░   96.68 % 
-SRE_Devops               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+imicola_resource         1 hr 9 mins         ██████████████░░░░░░░░░░░   55.66 % 
+Unknown Project          29 mins             ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+Resume                   25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+SRE_Devops               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 💻 Operating System: 
-Windows                  23 mins             ████████████████████████░   96.68 % 
-WSL                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+WSL                      1 hr 41 mins        ████████████████████░░░░░   81.43 % 
+Windows                  23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
 ```
 
 **I Mostly Code in Go** 
@@ -136,7 +140,7 @@ Astro                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imicola/imicola/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:39:54 UTC
+ Last Updated on 26/07/2026 19:41:24 UTC
 <!--END_SECTION:waka-->
 
 ---
