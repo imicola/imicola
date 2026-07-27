@@ -61,7 +61,9 @@
 
 ## 📊 统计信息
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C252%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C240%20hrs%2059%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -104,23 +106,45 @@ Sunday                   59 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 59 mins             ████████████░░░░░░░░░░░░░   48.10 % 
-Typst                    40 mins             ████████░░░░░░░░░░░░░░░░░   32.69 % 
-JavaScript               23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Markdown                 1 hr                ████████████░░░░░░░░░░░░░   48.29 % 
+Typst                    40 mins             ████████░░░░░░░░░░░░░░░░░   32.57 % 
+JavaScript               23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🔥 Editors: 
 VS Code                  2 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-imicola_resource         1 hr 9 mins         ██████████████░░░░░░░░░░░   55.66 % 
-Unknown Project          29 mins             ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
-Resume                   25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-SRE_Devops               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+imicola_resource         1 hr 9 mins         ██████████████░░░░░░░░░░░   55.46 % 
+Unknown Project          29 mins             ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+Resume                   25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+SRE_Devops               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 💻 Operating System: 
-WSL                      1 hr 41 mins        ████████████████████░░░░░   81.43 % 
-Windows                  23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+WSL                      1 hr 41 mins        ████████████████████░░░░░   81.50 % 
+Windows                  23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 1 min (49.05%)
+
+✍️ 1,462 lines written by AI, 81 lines written by hand (94.75% AI-written)
+
+🔤 26,903,164 Input Tokens, 108,497 Output Tokens
+
+💵 $137.55 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 12 AI Prompts
+
+GPT                      1,482 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 94.75% of written lines came from AI
+📚 Verbose Prompter — average 4,299 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 6.79% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -140,7 +164,7 @@ Astro                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imicola/imicola/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:41:24 UTC
+ Last Updated on 27/07/2026 20:01:38 UTC
 <!--END_SECTION:waka-->
 
 ---
