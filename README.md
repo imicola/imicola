@@ -63,9 +63,9 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C240%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-60%20hrs%208%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -82,21 +82,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                74 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-🌆 Daytime                158 commits         ████████░░░░░░░░░░░░░░░░░   32.58 % 
-🌃 Evening                225 commits         ████████████░░░░░░░░░░░░░   46.39 % 
-🌙 Night                  28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+🌞 Morning                74 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+🌆 Daytime                158 commits         ████████░░░░░░░░░░░░░░░░░   32.64 % 
+🌃 Evening                224 commits         ████████████░░░░░░░░░░░░░   46.28 % 
+🌙 Night                  28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Tuesday                  94 commits          █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-Wednesday                70 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Thursday                 52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Friday                   94 commits          █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-Saturday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Sunday                   59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Monday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Tuesday                  93 commits          █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Wednesday                70 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Thursday                 52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Friday                   94 commits          █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Saturday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Sunday                   59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
 ```
 
 
@@ -106,43 +106,47 @@ Sunday                   59 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr                ████████████░░░░░░░░░░░░░   48.29 % 
-Typst                    40 mins             ████████░░░░░░░░░░░░░░░░░   32.57 % 
-JavaScript               23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Markdown                 1 hr                ███████████░░░░░░░░░░░░░░   43.49 % 
+Typst                    40 mins             ███████░░░░░░░░░░░░░░░░░░   29.33 % 
+JavaScript               23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 4 mins        ███████████████████████░░   90.05 % 
+Obsidian                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
 
 🐱‍💻 Projects: 
-imicola_resource         1 hr 9 mins         ██████████████░░░░░░░░░░░   55.46 % 
-Unknown Project          29 mins             ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-Resume                   25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
-SRE_Devops               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+imicola_resource         1 hr 9 mins         ████████████░░░░░░░░░░░░░   49.94 % 
+Unknown Project          29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+Resume                   25 mins             █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+xi                       13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+SRE_Devops               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 💻 Operating System: 
-WSL                      1 hr 41 mins        ████████████████████░░░░░   81.50 % 
-Windows                  23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+WSL                      1 hr 41 mins        ██████████████████░░░░░░░   73.39 % 
+Windows                  36 mins             ███████░░░░░░░░░░░░░░░░░░   26.61 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 1 min (49.05%)
+⏱ AI Coding Time: 1 hr 14 mins (54.12%)
 
 ✍️ 1,462 lines written by AI, 81 lines written by hand (94.75% AI-written)
 
-🔤 26,903,164 Input Tokens, 108,497 Output Tokens
+🔤 26,936,575 Input Tokens, 113,680 Output Tokens
 
-💵 $137.55 Estimated AI Cost This Week
+💵 $137.73 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 12 AI Prompts
+🧠 4 AI Sessions, 15 AI Prompts
 
 GPT                      1,482 lines         █████████████████████████   100.00 % 
+Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 94.75% of written lines came from AI
-📚 Verbose Prompter — average 4,299 characters per prompt
+📚 Verbose Prompter — average 3,557 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 6.79% of changed lines were hand-edited
 ```
@@ -164,7 +168,7 @@ Astro                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imicola/imicola/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 20:01:38 UTC
+ Last Updated on 28/07/2026 19:57:52 UTC
 <!--END_SECTION:waka-->
 
 ---
