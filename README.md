@@ -106,32 +106,30 @@ Sunday                   59 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr                ███████████░░░░░░░░░░░░░░   43.49 % 
-Typst                    40 mins             ███████░░░░░░░░░░░░░░░░░░   29.33 % 
-JavaScript               23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Markdown                 1 hr                ███████████░░░░░░░░░░░░░░   43.74 % 
+Typst                    40 mins             ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+JavaScript               23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Other                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 4 mins        ███████████████████████░░   90.05 % 
-Obsidian                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+VS Code                  2 hrs 3 mins        ██████████████████████░░░   89.99 % 
+Obsidian                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
 
 🐱‍💻 Projects: 
-imicola_resource         1 hr 9 mins         ████████████░░░░░░░░░░░░░   49.94 % 
-Unknown Project          29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-Resume                   25 mins             █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-xi                       13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-SRE_Devops               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+imicola_resource         1 hr 9 mins         █████████████░░░░░░░░░░░░   50.23 % 
+Unknown Project          29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+Resume                   25 mins             █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+xi                       13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
 
 💻 Operating System: 
-WSL                      1 hr 41 mins        ██████████████████░░░░░░░   73.39 % 
-Windows                  36 mins             ███████░░░░░░░░░░░░░░░░░░   26.61 % 
+WSL                      1 hr 40 mins        ██████████████████░░░░░░░   73.23 % 
+Windows                  36 mins             ███████░░░░░░░░░░░░░░░░░░   26.77 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 14 mins (54.12%)
+⏱ AI Coding Time: 1 hr 14 mins (54.43%)
 
 ✍️ 1,462 lines written by AI, 81 lines written by hand (94.75% AI-written)
 
@@ -168,7 +166,7 @@ Astro                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imicola/imicola/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 19:57:52 UTC
+ Last Updated on 29/07/2026 19:50:10 UTC
 <!--END_SECTION:waka-->
 
 ---
