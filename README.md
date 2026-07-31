@@ -79,6 +79,77 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                74 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+🌆 Daytime                158 commits         ████████░░░░░░░░░░░░░░░░░   32.64 % 
+🌃 Evening                224 commits         ████████████░░░░░░░░░░░░░   46.28 % 
+🌙 Night                  28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Tuesday                  93 commits          █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Wednesday                70 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Thursday                 52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Friday                   94 commits          █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Saturday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Sunday                   59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 1 hr                ████████████░░░░░░░░░░░░░   46.13 % 
+Typst                    41 mins             ████████░░░░░░░░░░░░░░░░░   31.67 % 
+JavaScript               15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Other                    14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+
+🔥 Editors: 
+VS Code                  1 hr 57 mins        ██████████████████████░░░   89.52 % 
+Obsidian                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+
+🐱‍💻 Projects: 
+imicola_resource         1 hr 9 mins         █████████████░░░░░░░░░░░░   53.11 % 
+Resume                   26 mins             █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Unknown Project          21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+xi                       13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+aiworkspace              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+
+💻 Operating System: 
+WSL                      1 hr 42 mins        ████████████████████░░░░░   78.11 % 
+Windows                  28 mins             █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 16 mins (58.39%)
+
+✍️ 1,462 lines written by AI, 73 lines written by hand (95.24% AI-written)
+
+🔤 28,952,050 Input Tokens, 120,923 Output Tokens
+
+💵 $148.01 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 16 AI Prompts
+
+GPT                      1,482 lines         █████████████████████████   100.00 % 
+Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 95.24% of written lines came from AI
+📚 Verbose Prompter — average 3,440 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 6.56% of changed lines were hand-edited
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -96,7 +167,7 @@ Astro                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imicola/imicola/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 19:58:26 UTC
+ Last Updated on 31/07/2026 19:59:19 UTC
 <!--END_SECTION:waka-->
 
 ---
