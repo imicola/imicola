@@ -61,7 +61,7 @@
 
 ## 📊 统计信息
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C240%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C241%20hrs%2018%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-60%20hrs%208%20mins-blue?style=flat)
 
@@ -79,74 +79,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                74 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-🌆 Daytime                158 commits         ████████░░░░░░░░░░░░░░░░░   32.64 % 
-🌃 Evening                224 commits         ████████████░░░░░░░░░░░░░   46.28 % 
-🌙 Night                  28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Tuesday                  93 commits          █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-Wednesday                70 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Thursday                 52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Friday                   94 commits          █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-Saturday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Sunday                   59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-JavaScript               15 mins             █████████████░░░░░░░░░░░░   50.59 % 
-Other                    14 mins             ████████████░░░░░░░░░░░░░   47.83 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-
-🔥 Editors: 
-VS Code                  15 mins             █████████████░░░░░░░░░░░░   53.54 % 
-Obsidian                 13 mins             ████████████░░░░░░░░░░░░░   46.46 % 
-
-🐱‍💻 Projects: 
-Unknown Project          15 mins             █████████████░░░░░░░░░░░░   50.59 % 
-xi                       13 mins             ████████████░░░░░░░░░░░░░   46.46 % 
-Resume                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-aiworkspace              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-
-💻 Operating System: 
-Windows                  28 mins             ████████████████████████░   97.05 % 
-WSL                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 14 mins (47.83%)
-
-✍️ 0 lines written by AI, 9 lines written by hand (0.0% AI-written)
-
-🔤 42,434 Input Tokens, 5,420 Output Tokens
-
-💵 $0.21 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 4 AI Prompts
-
-Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 862 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -164,7 +96,7 @@ Astro                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imicola/imicola/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 19:40:35 UTC
+ Last Updated on 04/08/2026 20:05:42 UTC
 <!--END_SECTION:waka-->
 
 ---
