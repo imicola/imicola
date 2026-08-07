@@ -106,43 +106,22 @@ Sunday                   59 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               1 hr 38 mins        ████████████████████░░░░░   78.23 % 
-Markdown                 19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Markdown                 19 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         █████████████░░░░░░░░░░░░   53.87 % 
-Obsidian                 58 mins             ████████████░░░░░░░░░░░░░   46.13 % 
+Obsidian                 19 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-e-pcl2-minecraft-versions1 hr 1 min          ████████████░░░░░░░░░░░░░   49.18 % 
-Unknown Project          44 mins             █████████░░░░░░░░░░░░░░░░   35.36 % 
-个人图书馆                    19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+个人图书馆                    19 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  19 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 46 mins (84.54%)
-
-✍️ 163 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 26,803,059 Input Tokens, 71,636 Output Tokens
-
-💵 $131.26 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 25 AI Prompts
-
-GPT                      169 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 16,448 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -162,7 +141,7 @@ Astro                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imicola/imicola/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:20:37 UTC
+ Last Updated on 07/08/2026 19:26:03 UTC
 <!--END_SECTION:waka-->
 
 ---
