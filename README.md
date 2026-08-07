@@ -106,27 +106,27 @@ Sunday                   59 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               1 hr 38 mins        ████████████████████░░░░░   78.32 % 
-Markdown                 19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+JavaScript               1 hr 38 mins        ████████████████████░░░░░   78.23 % 
+Markdown                 19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 
 🔥 Editors: 
-VS Code                  1 hr 8 mins         ██████████████░░░░░░░░░░░   54.05 % 
-Obsidian                 58 mins             ███████████░░░░░░░░░░░░░░   45.95 % 
+VS Code                  1 hr 7 mins         █████████████░░░░░░░░░░░░   53.87 % 
+Obsidian                 58 mins             ████████████░░░░░░░░░░░░░   46.13 % 
 
 🐱‍💻 Projects: 
-e-pcl2-minecraft-versions1 hr 1 min          ████████████░░░░░░░░░░░░░   48.99 % 
-Unknown Project          44 mins             █████████░░░░░░░░░░░░░░░░   35.61 % 
-个人图书馆                    19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+e-pcl2-minecraft-versions1 hr 1 min          ████████████░░░░░░░░░░░░░   49.18 % 
+Unknown Project          44 mins             █████████░░░░░░░░░░░░░░░░   35.36 % 
+个人图书馆                    19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
 
 💻 Operating System: 
-Windows                  2 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 46 mins (84.21%)
+⏱ AI Coding Time: 1 hr 46 mins (84.54%)
 
 ✍️ 163 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -162,7 +162,7 @@ Astro                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imicola/imicola/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 20:01:36 UTC
+ Last Updated on 07/08/2026 00:20:37 UTC
 <!--END_SECTION:waka-->
 
 ---
