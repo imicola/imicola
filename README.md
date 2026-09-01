@@ -61,9 +61,9 @@
 
 ## 📊 统计信息
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C241%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C241%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-60%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-60%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -106,22 +106,40 @@ Sunday                   62 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 0 secs              █████████████████████████   100.00 % 
+Text                     1 min               █████████████████████████   99.17 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🔥 Editors: 
-Obsidian                 0 secs              █████████████████████████   100.00 % 
+VS Code                  1 min               █████████████████████████   99.17 % 
+Obsidian                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🐱‍💻 Projects: 
-个人图书馆                    0 secs              █████████████████████████   100.00 % 
+haligong2                1 min               █████████████████████████   99.17 % 
+个人图书馆                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+WSL                      1 min               █████████████████████████   99.17 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 min (99.17%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 26 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -141,7 +159,7 @@ Astro                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imicola/imicola/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2026 22:57:12 UTC
+ Last Updated on 01/09/2026 21:10:12 UTC
 <!--END_SECTION:waka-->
 
 ---
