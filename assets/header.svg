@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Imicola — A work in progress.</title>
+  <desc id="desc">Developer field notes. Code, curiosity, and small experiments. An ivory wordmark and orange orbital diagram on charcoal.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1200" height="420" rx="20" fill="#171b20"/>
+  <rect width="1200" height="420" rx="20" fill="url(#grid)"/>
+  <path d="M48 76H1152" stroke="#3c4148"/>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="16" letter-spacing="2">
+    <text x="48" y="48" fill="#f2eee5">IM / DEVELOPER FIELD NOTES</text>
+    <text x="1152" y="48" text-anchor="end" fill="#c2c5c8">VOL. 01 — ALWAYS LEARNING</text>
+  </g>
+  <text x="44" y="224" font-family="Georgia, 'Times New Roman', serif" font-size="142" letter-spacing="-7" fill="#f2eee5">imicola<tspan fill="#ff915e">.</tspan></text>
+  <text x="50" y="277" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="31" fill="#f2eee5">A work in progress.</text>
+  <g transform="translate(985 218)" fill="none">
+    <circle r="106" stroke="#494e54"/>
+    <circle r="71" stroke="#494e54"/>
+    <ellipse rx="139" ry="45" transform="rotate(-38)" stroke="#ff915e" stroke-width="2"/>
+    <path d="M-125 0H125M0-125V125" stroke="#494e54" stroke-dasharray="4 8"/>
+    <circle r="13" fill="#ff915e"/>
+    <circle cx="95" cy="-73" r="7" fill="#f2eee5"/>
+    <circle cx="-55" cy="44" r="5" fill="#8ebfae"/>
+  </g>
+  <path d="M48 337H1152" stroke="#3c4148"/>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="16" letter-spacing="1.5">
+    <text x="48" y="379" fill="#c2c5c8">CODE / CURIOSITY / SMALL EXPERIMENTS</text>
+    <text x="1152" y="379" text-anchor="end" fill="#ff915e">BUILD. UNDERSTAND. REPEAT.</text>
+  </g>
+</svg>
