@@ -86,21 +86,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                236 commits         ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-🌆 Daytime                395 commits         ██████████░░░░░░░░░░░░░░░   40.14 % 
-🌃 Evening                322 commits         ████████░░░░░░░░░░░░░░░░░   32.72 % 
-🌙 Night                  31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+🌞 Morning                236 commits         ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+🌆 Daytime                395 commits         ██████████░░░░░░░░░░░░░░░   40.02 % 
+🌃 Evening                325 commits         ████████░░░░░░░░░░░░░░░░░   32.93 % 
+🌙 Night                  31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Tuesday                  168 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Wednesday                405 commits         ██████████░░░░░░░░░░░░░░░   41.16 % 
-Thursday                 59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Friday                   97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Saturday                 66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Sunday                   62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Monday                   127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Tuesday                  171 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+Wednesday                405 commits         ██████████░░░░░░░░░░░░░░░   41.03 % 
+Thursday                 59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Friday                   97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Saturday                 66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Sunday                   62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 ```
 
 
@@ -110,52 +110,51 @@ Sunday                   62 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    6 hrs 43 mins       ███████████░░░░░░░░░░░░░░   42.89 % 
-Go                       6 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   38.82 % 
-Markdown                 1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-C++                      57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-Vue                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Go                       5 hrs 19 mins       ██████████████░░░░░░░░░░░   57.69 % 
+Markdown                 1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Other                    1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+C++                      57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 20 mins      █████████████████████░░░░   84.99 % 
-Codex Vscode             2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Obsidian                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+VS Code                  6 hrs 58 mins       ███████████████████░░░░░░   75.61 % 
+Codex Vscode             2 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+Obsidian                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 🐱‍💻 Projects: 
-sentinel-go              10 hrs 45 mins      █████████████████░░░░░░░░   68.54 % 
-Work                     1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-智能共享自习室预约系统              1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Questions-and-Impressions57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-e-eng-markdown-yyyy-mm-dd25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+sentinel-go              5 hrs 42 mins       ███████████████░░░░░░░░░░   61.89 % 
+Work                     1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Questions-and-Impressions57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+e-eng-markdown-yyyy-mm-dd19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+default                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 💻 Operating System: 
-Windows                  13 hrs 25 mins      █████████████████████░░░░   85.54 % 
-WSL                      2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Windows                  8 hrs 16 mins       ██████████████████████░░░   89.67 % 
+WSL                      57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 35 mins (61.07%)
+⏱ AI Coding Time: 3 hrs 32 mins (38.31%)
 
-✍️ 710 lines written by AI, 900 lines written by hand (44.1% AI-written)
+✍️ 606 lines written by AI, 860 lines written by hand (41.34% AI-written)
 
-🔤 101,084,296 Input Tokens, 996,857 Output Tokens
+🔤 1,421,374 Input Tokens, 178,927 Output Tokens
 
-💵 $626.34 Estimated AI Cost This Week
+💵 $57.54 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 69 AI Prompts
+🧠 26 AI Sessions, 66 AI Prompts
 
-GPT                      710 lines           █████████████████████████   100.00 % 
+GPT                      606 lines           █████████████████████████   100.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 44.1% of written lines came from AI
-📚 Verbose Prompter — average 5,990 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 65.25% of changed lines were hand-edited
+⚖️ Balanced with AI — 41.34% of written lines came from AI
+📚 Verbose Prompter — average 6,009 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 68.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -175,7 +174,7 @@ Astro                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imicola/imicola/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 21:38:43 UTC
+ Last Updated on 25/09/2026 21:42:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
