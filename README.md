@@ -73,7 +73,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 419.0 kB Used in GitHub's Storage 
+> 📦 419.1 kB Used in GitHub's Storage 
  > 
 > 🏆 196 Contributions in the Year 2026
  > 
@@ -110,51 +110,51 @@ Sunday                   62 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       5 hrs 19 mins       ██████████████░░░░░░░░░░░   57.69 % 
-Markdown                 1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Other                    1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-C++                      57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Go                       4 hrs 29 mins       ██████████████░░░░░░░░░░░   55.42 % 
+Markdown                 1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Other                    1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+C++                      57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 58 mins       ███████████████████░░░░░░   75.61 % 
-Codex Vscode             2 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-Obsidian                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+VS Code                  6 hrs 6 mins        ███████████████████░░░░░░   75.43 % 
+Codex Vscode             1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+Obsidian                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🐱‍💻 Projects: 
-sentinel-go              5 hrs 42 mins       ███████████████░░░░░░░░░░   61.89 % 
-Work                     1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Questions-and-Impressions57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-e-eng-markdown-yyyy-mm-dd19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-default                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+sentinel-go              4 hrs 51 mins       ███████████████░░░░░░░░░░   60.07 % 
+Work                     1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Questions-and-Impressions57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+e-eng-markdown-yyyy-mm-dd17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+default                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 💻 Operating System: 
-Windows                  8 hrs 16 mins       ██████████████████████░░░   89.67 % 
-WSL                      57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Windows                  7 hrs 8 mins        ██████████████████████░░░   88.21 % 
+WSL                      57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 32 mins (38.31%)
+⏱ AI Coding Time: 3 hrs 6 mins (38.45%)
 
-✍️ 606 lines written by AI, 860 lines written by hand (41.34% AI-written)
+✍️ 482 lines written by AI, 763 lines written by hand (38.71% AI-written)
 
-🔤 1,421,374 Input Tokens, 178,927 Output Tokens
+🔤 1,235,414 Input Tokens, 152,343 Output Tokens
 
-💵 $57.54 Estimated AI Cost This Week
+💵 $54.96 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 66 AI Prompts
+🧠 22 AI Sessions, 52 AI Prompts
 
-GPT                      606 lines           █████████████████████████   100.00 % 
+GPT                      482 lines           █████████████████████████   100.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 41.34% of written lines came from AI
-📚 Verbose Prompter — average 6,009 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 68.05% of changed lines were hand-edited
+⚖️ Balanced with AI — 38.71% of written lines came from AI
+📚 Verbose Prompter — average 7,074 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 69.55% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -174,7 +174,7 @@ Astro                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imicola/imicola/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 21:42:41 UTC
+ Last Updated on 26/09/2026 21:20:18 UTC
 <!--END_SECTION:waka-->
 
 </details>
