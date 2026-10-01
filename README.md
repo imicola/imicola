@@ -110,53 +110,53 @@ Sunday                   62 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    11 hrs 8 mins       ██████████████░░░░░░░░░░░   54.88 % 
-Markdown                 4 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-Go                       2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Other                    10 hrs 59 mins      ████████████████░░░░░░░░░   62.98 % 
+Markdown                 3 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+Go                       51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 🔥 Editors: 
-Obsidian                 13 hrs 44 mins      █████████████████░░░░░░░░   67.65 % 
-VS Code                  3 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Codex Vscode             2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Antigravity Desktop      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Obsidian                 13 hrs 44 mins      ████████████████████░░░░░   78.66 % 
+VS Code                  1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Codex Vscode             1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Antigravity Desktop      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 
 🐱‍💻 Projects: 
-OCR                      8 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   39.85 % 
-sentinel-go              2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Grup Work                2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Work                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Project01                1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+OCR                      8 hrs 5 mins        ████████████░░░░░░░░░░░░░   46.34 % 
+Grup Work                2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Project01                1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+RealWork                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+sentinel-go              59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 
 💻 Operating System: 
-Windows                  20 hrs 18 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 1 min (83.88%)
+⏱ AI Coding Time: 15 hrs 58 mins (91.53%)
 
-✍️ 5,271 lines written by AI, 522 lines written by hand (90.99% AI-written)
+✍️ 5,184 lines written by AI, 206 lines written by hand (96.18% AI-written)
 
-🔤 7,966,066 Input Tokens, 1,527,118 Output Tokens
+🔤 7,639,345 Input Tokens, 1,477,414 Output Tokens
 
-💵 $615.88 Estimated AI Cost This Week
+💵 $609.56 Estimated AI Cost This Week
 
-🧠 106 AI Sessions, 87 AI Prompts
+🧠 99 AI Sessions, 68 AI Prompts
 
-ZCode                    3,989 lines         ███████████████████░░░░░░   75.00 % 
-GPT                      1,330 lines         ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+ZCode                    3,989 lines         ███████████████████░░░░░░   76.59 % 
+GPT                      1,219 lines         ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.99% of written lines came from AI
-📚 Verbose Prompter — average 4,858 characters per prompt
+🤖 AI-Driven — 96.18% of written lines came from AI
+📚 Verbose Prompter — average 5,129 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 13.19% of changed lines were hand-edited
+🚀 High AI Trust — 5.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -176,7 +176,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imicola/imicola/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 22:26:28 UTC
+ Last Updated on 01/10/2026 22:48:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
