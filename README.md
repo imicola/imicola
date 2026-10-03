@@ -110,53 +110,53 @@ Sunday                   62 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    10 hrs 54 mins      ████████████████░░░░░░░░░   65.55 % 
-Markdown                 3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-Go                       51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Python                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-TeX                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Other                    10 hrs 52 mins      ████████████████░░░░░░░░░   65.96 % 
+Markdown                 3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+Go                       51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Python                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+TeX                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 Editors: 
-Obsidian                 13 hrs 44 mins      █████████████████████░░░░   82.48 % 
-VS Code                  1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Antigravity Desktop      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Codex Vscode             33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Obsidian                 13 hrs 44 mins      █████████████████████░░░░   83.34 % 
+VS Code                  1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Antigravity Desktop      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Codex Vscode             30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 🐱‍💻 Projects: 
-OCR                      8 hrs 5 mins        ████████████░░░░░░░░░░░░░   48.58 % 
-Grup Work                2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Project01                1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-RealWork                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-个人图书馆                    56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+OCR                      8 hrs 5 mins        ████████████░░░░░░░░░░░░░   49.09 % 
+Grup Work                2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Project01                1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+RealWork                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+个人图书馆                    56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 
 💻 Operating System: 
-Windows                  16 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 10 mins (91.1%)
+⏱ AI Coding Time: 14 hrs 59 mins (91.01%)
 
-✍️ 4,471 lines written by AI, 206 lines written by hand (95.6% AI-written)
+✍️ 4,438 lines written by AI, 206 lines written by hand (95.56% AI-written)
 
-🔤 7,521,429 Input Tokens, 1,450,438 Output Tokens
+🔤 7,453,928 Input Tokens, 1,423,101 Output Tokens
 
-💵 $592.07 Estimated AI Cost This Week
+💵 $587.78 Estimated AI Cost This Week
 
-🧠 94 AI Sessions, 50 AI Prompts
+🧠 91 AI Sessions, 47 AI Prompts
 
-ZCode                    3,931 lines         ██████████████████████░░░   87.45 % 
-Gemini                   380 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-GPT                      184 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+ZCode                    3,898 lines         ██████████████████████░░░   87.36 % 
+Gemini                   380 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+GPT                      184 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.6% of written lines came from AI
-📚 Verbose Prompter — average 3,521 characters per prompt
+🤖 AI-Driven — 95.56% of written lines came from AI
+📚 Verbose Prompter — average 3,321 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 6.3% of changed lines were hand-edited
+🚀 High AI Trust — 6.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -176,7 +176,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imicola/imicola/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 22:24:10 UTC
+ Last Updated on 03/10/2026 21:31:57 UTC
 <!--END_SECTION:waka-->
 
 </details>
