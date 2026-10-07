@@ -65,9 +65,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C300%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C302%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -110,54 +110,54 @@ Sunday                   62 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 9 hrs 54 mins       ██████████████░░░░░░░░░░░   55.19 % 
-Python                   3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Other                    1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-YAML                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-JSON                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Markdown                 8 hrs 25 mins       ████████████░░░░░░░░░░░░░   48.27 % 
+Python                   2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+YAML                     2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Other                    1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+JSON                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
 
 🔥 Editors: 
-ZCode                    9 hrs 43 mins       ██████████████░░░░░░░░░░░   54.19 % 
-Zed                      2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Antigravity Desktop      2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Codex Vscode             1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Obsidian                 1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+ZCode                    7 hrs 32 mins       ███████████░░░░░░░░░░░░░░   43.16 % 
+Zed                      3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+Codex Vscode             2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Antigravity Desktop      2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Obsidian                 1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 
 🐱‍💻 Projects: 
-RealWork                 2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Study-Mate               2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-2026-10-03-p2a1          2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Work                     1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-sentinel-go              1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Work                     2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Study-Mate               2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+sentinel-go              2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+2026-10-03-p2a1          2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+2026-10-03-p1a1          1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 
 💻 Operating System: 
-Windows                  17 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 42 mins (87.57%)
+⏱ AI Coding Time: 14 hrs 11 mins (81.3%)
 
-✍️ 16,403 lines written by AI, 141 lines written by hand (99.15% AI-written)
+✍️ 14,588 lines written by AI, 206 lines written by hand (98.61% AI-written)
 
-🔤 10,723,581 Input Tokens, 2,041,498 Output Tokens
+🔤 10,783,925 Input Tokens, 1,880,240 Output Tokens
 
-💵 $566.41 Estimated AI Cost This Week
+💵 $504.30 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 108 AI Prompts
+🧠 44 AI Sessions, 119 AI Prompts
 
-ZCode                    9,104 lines         ██████████████░░░░░░░░░░░   55.50 % 
-Gemini                   6,349 lines         ██████████░░░░░░░░░░░░░░░   38.71 % 
-GPT                      950 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+ZCode                    7,245 lines         ████████████░░░░░░░░░░░░░   49.66 % 
+Gemini                   6,349 lines         ███████████░░░░░░░░░░░░░░   43.52 % 
+GPT                      994 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.15% of written lines came from AI
-📚 Verbose Prompter — average 2,489 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.88% of changed lines were hand-edited
+🤖 AI-Driven — 98.61% of written lines came from AI
+📚 Verbose Prompter — average 3,945 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 1.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -177,7 +177,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imicola/imicola/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 22:43:37 UTC
+ Last Updated on 07/10/2026 23:13:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
