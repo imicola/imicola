@@ -65,17 +65,17 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C353%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C354%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-151%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-154%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 430.1 kB Used in GitHub's Storage 
+> 📦 448.3 kB Used in GitHub's Storage 
  > 
-> 🏆 244 Contributions in the Year 2026
+> 🏆 252 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,21 +86,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                230 commits         ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-🌆 Daytime                404 commits         ██████████░░░░░░░░░░░░░░░   39.76 % 
-🌃 Evening                338 commits         ████████░░░░░░░░░░░░░░░░░   33.27 % 
-🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+🌞 Morning                235 commits         ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+🌆 Daytime                405 commits         ██████████░░░░░░░░░░░░░░░   39.59 % 
+🌃 Evening                339 commits         ████████░░░░░░░░░░░░░░░░░   33.14 % 
+🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Tuesday                  153 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Wednesday                385 commits         █████████░░░░░░░░░░░░░░░░   37.89 % 
-Thursday                 83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-Friday                   109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Saturday                 65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Sunday                   90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Monday                   131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Tuesday                  159 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Wednesday                385 commits         █████████░░░░░░░░░░░░░░░░   37.63 % 
+Thursday                 83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Friday                   109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Saturday                 65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Sunday                   91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 ```
 
 
@@ -110,64 +110,64 @@ Sunday                   90 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 10 hrs 5 mins       ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-Rust                     6 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Go                       6 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Other                    5 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-JSON                     2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Markdown                 10 hrs 10 mins      ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
+Rust                     6 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Go                       6 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Other                    5 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Image (png)              2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 
 🔥 Editors: 
-ZCode                    23 hrs 26 mins      ██████████████░░░░░░░░░░░   56.74 % 
-Zed                      13 hrs 30 mins      ████████░░░░░░░░░░░░░░░░░   32.70 % 
-Codex Vscode             3 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Codex Exec               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+ZCode                    22 hrs 26 mins      ██████████████░░░░░░░░░░░   56.32 % 
+Zed                      13 hrs 19 mins      ████████░░░░░░░░░░░░░░░░░   33.42 % 
+Codex Vscode             3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Antigravity Desktop      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🐱‍💻 Projects: 
-imicolaSSH               9 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-sentinel-go              4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Unknown Project          3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-AI_Local_Studio          3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-default                  2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+imicolaSSH               9 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
+sentinel-go              4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+AI_Local_Studio          3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Unknown Project          2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+frpdeck                  2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 
 💻 Operating System: 
-Windows                  41 hrs 18 mins      █████████████████████████   100.00 % 
+Windows                  39 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 hrs 39 mins (88.73%)
+⏱ AI Coding Time: 35 hrs 48 mins (89.88%)
 
-✍️ 59,792 lines written by AI, 307 lines written by hand (99.49% AI-written)
+✍️ 58,452 lines written by AI, 308 lines written by hand (99.48% AI-written)
 
-🔤 20,066,110 Input Tokens, 4,011,789 Output Tokens
+🔤 21,551,061 Input Tokens, 4,135,545 Output Tokens
 
-💵 $1866.42 Estimated AI Cost This Week
+💵 $1863.21 Estimated AI Cost This Week
 
-🧠 165 AI Sessions, 446 AI Prompts
+🧠 159 AI Sessions, 582 AI Prompts
 
-ZCode                    53,770 lines        ██████████████████████░░░   89.93 % 
-Gemini                   2,309 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-Open                     1,924 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-GPT                      1,628 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-Codex-Vscode             161 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+ZCode                    52,426 lines        ██████████████████████░░░   89.69 % 
+Gemini                   2,309 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Open                     1,924 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+GPT                      1,602 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Codex-Vscode             191 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.49% of written lines came from AI
-📚 Verbose Prompter — average 3,734 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.58% of changed lines were hand-edited
+🤖 AI-Driven — 99.48% of written lines came from AI
+📚 Verbose Prompter — average 4,657 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.59% of changed lines were hand-edited
 ```
 
-**I Mostly Code in Go** 
+**I Mostly Code in TypeScript** 
 
 ```text
-Go                       3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+TypeScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Go                       3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
@@ -177,7 +177,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imicola/imicola/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 22:31:19 UTC
+ Last Updated on 20/10/2026 21:46:57 UTC
 <!--END_SECTION:waka-->
 
 </details>
