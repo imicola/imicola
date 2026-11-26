@@ -75,7 +75,7 @@
 
 > 📦 602.3 kB Used in GitHub's Storage 
  > 
-> 🏆 462 Contributions in the Year 2026
+> 🏆 464 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -86,21 +86,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                250 commits         █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-🌆 Daytime                532 commits         ██████████░░░░░░░░░░░░░░░   40.70 % 
-🌃 Evening                476 commits         █████████░░░░░░░░░░░░░░░░   36.42 % 
-🌙 Night                  49 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+🌞 Morning                251 commits         █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+🌆 Daytime                533 commits         ██████████░░░░░░░░░░░░░░░   40.72 % 
+🌃 Evening                476 commits         █████████░░░░░░░░░░░░░░░░   36.36 % 
+🌙 Night                  49 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Tuesday                  173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Wednesday                416 commits         ████████░░░░░░░░░░░░░░░░░   31.83 % 
-Thursday                 124 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-Friday                   152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Saturday                 135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Sunday                   159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Monday                   148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Tuesday                  174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Wednesday                417 commits         ████████░░░░░░░░░░░░░░░░░   31.86 % 
+Thursday                 124 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Friday                   152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Saturday                 135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Sunday                   159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
 ```
 
 
@@ -110,53 +110,52 @@ Sunday                   159 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       5 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   31.58 % 
-Markdown                 4 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-JavaScript               2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-JSON                     1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Other                    1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Go                       5 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   36.81 % 
+Markdown                 2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+JavaScript               2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+JSON                     1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Other                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 
 🔥 Editors: 
-Zed                      6 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   40.21 % 
-ZCode                    6 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   35.43 % 
-Codex Vscode             3 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-Obsidian                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Zed                      6 hrs 38 mins       ███████████░░░░░░░░░░░░░░   45.17 % 
+ZCode                    6 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   41.35 % 
+Codex Vscode             1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
 
 🐱‍💻 Projects: 
-Work                     8 hrs 22 mins       ████████████░░░░░░░░░░░░░   48.77 % 
-draft-d5c23e92-99cb-4ad4-3 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-internship_hunter        1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-mygo md3e Component lib  1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-e-aiworkspace-agy-mygo-md49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Work                     6 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   41.85 % 
+draft-d5c23e92-99cb-4ad4-3 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+internship_hunter        1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+mygo md3e Component lib  1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+e-aiworkspace-agy-mygo-md49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 
 💻 Operating System: 
-Windows                  17 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  14 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 11 mins (71.03%)
+⏱ AI Coding Time: 9 hrs 50 mins (66.88%)
 
-✍️ 7,741 lines written by AI, 629 lines written by hand (92.49% AI-written)
+✍️ 7,680 lines written by AI, 625 lines written by hand (92.47% AI-written)
 
-🔤 6,526,426 Input Tokens, 1,289,985 Output Tokens
+🔤 5,373,914 Input Tokens, 1,135,376 Output Tokens
 
-💵 $546.79 Estimated AI Cost This Week
+💵 $514.45 Estimated AI Cost This Week
 
-🧠 83 AI Sessions, 144 AI Prompts
+🧠 73 AI Sessions, 102 AI Prompts
 
-ZCode                    7,113 lines         ███████████████████████░░   91.78 % 
-GPT                      557 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-OMP                      63 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Codex-Vscode             17 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+ZCode                    7,113 lines         ███████████████████████░░   92.62 % 
+GPT                      504 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+OMP                      63 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.49% of written lines came from AI
-📚 Verbose Prompter — average 5,091 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 7.96% of changed lines were hand-edited
+🤖 AI-Driven — 92.47% of written lines came from AI
+📚 Verbose Prompter — average 5,355 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 7.98% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -176,7 +175,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imicola/imicola/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2026 02:42:16 UTC
+ Last Updated on 26/11/2026 01:56:51 UTC
 <!--END_SECTION:waka-->
 
 </details>
